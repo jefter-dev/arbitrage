@@ -1,0 +1,5 @@
+# Environment variables
+.env
+
+# pnpm
+node_modules

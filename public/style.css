@@ -1,0 +1,23 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+
+#opportunity-overlay {
+  transition: opacity 0.3s ease-in-out;
+}
+
+#opportunity-overlay.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.loader {
+  border-top-color: #06b6d4;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}

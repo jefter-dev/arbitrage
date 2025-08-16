@@ -1,0 +1,40 @@
+export const reset = "\x1b[0m";
+
+export const black = "\x1b[30m";
+export const red = "\x1b[31m";
+export const green = "\x1b[32m";
+export const yellow = "\x1b[33m";
+export const blue = "\x1b[34m";
+export const magenta = "\x1b[35m";
+export const cyan = "\x1b[36m";
+export const white = "\x1b[37m";
+
+export const brightBlack = "\x1b[90m";
+export const brightRed = "\x1b[91m";
+export const brightGreen = "\x1b[92m";
+export const brightYellow = "\x1b[93m";
+export const brightBlue = "\x1b[94m";
+export const brightMagenta = "\x1b[95m";
+export const brightCyan = "\x1b[96m";
+export const brightWhite = "\x1b[97m";
+
+export const orange = "\x1b[38;5;208m";
+export const pink = "\x1b[38;5;205m";
+export const lightPink = "\x1b[38;5;213m";
+export const purple = "\x1b[38;5;93m";
+export const lightPurple = "\x1b[38;5;141m";
+export const teal = "\x1b[38;5;37m";
+export const lightTeal = "\x1b[38;5;44m";
+export const lime = "\x1b[38;5;154m";
+export const lightLime = "\x1b[38;5;190m";
+export const brown = "\x1b[38;5;94m";
+export const lightBrown = "\x1b[38;5;180m";
+export const olive = "\x1b[38;5;142m";
+export const lightOlive = "\x1b[38;5;149m";
+export const navy = "\x1b[38;5;18m";
+export const skyBlue = "\x1b[38;5;33m";
+export const lightSkyBlue = "\x1b[38;5;39m";
+export const coral = "\x1b[38;5;203m";
+export const lightCoral = "\x1b[38;5;217m";
+export const gold = "\x1b[38;5;220m";
+export const silver = "\x1b[38;5;250m";
